@@ -1,0 +1,77 @@
+[
+  {
+    "backcolor": "#964a4a",
+    "name": "ST6_TA",
+    "background": {
+      "name": "Carbon fibre 1",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1879.png');"
+    },
+    "radii": "20px",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-11Nx",
+    "pcb": true,
+    "plate": true
+  },
+  [
+    {
+      "x": 2
+    },
+    "U"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 1
+    },
+    "Y",
+    {
+      "x": 1
+    },
+    "I"
+  ],
+  [
+    {
+      "y": -0.8799999999999999
+    },
+    "T"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 4
+    },
+    "O"
+  ],
+  [
+    {
+      "y": -0.3799999999999999,
+      "x": 2
+    },
+    "J"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1
+    },
+    "H",
+    {
+      "x": 1
+    },
+    "K"
+  ],
+  [
+    {
+      "y": -0.8799999999999999
+    },
+    "G"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 4
+    },
+    "L"
+  ]
+]
